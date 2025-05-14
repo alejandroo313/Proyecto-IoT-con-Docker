@@ -28,8 +28,8 @@ Este proyecto construye un entorno IoT desacoplado y funcional utilizando conten
 1. Clona este repositorio.
 
 ```bash
-git clone https://github.com/tu_usuario/iot-docker-ecosystem.git
-cd iot-docker-ecosystem
+git clone https://github.com/alejandroo313/Proyecto-IoT-con-Docker
+cd Proyecto-IoT-con-Docker
 ```
 2. Ejecuta:
 
