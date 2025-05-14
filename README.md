@@ -55,12 +55,13 @@ python cliente-mqtt.py
 └── (opcional) .env
 
 ## Ejemplo de flujo
+```
 [mqtt in] → [function] → [influxdb out]  
                     ↓  
                  [debug]  
-
+```
 ## Ejemplo de posible dashboard Grafana
-![Dashboard](image.png)
+![Dashboard](Grafana-dashboard.png)
 
 ## Autor
 Alejandro Castro  
