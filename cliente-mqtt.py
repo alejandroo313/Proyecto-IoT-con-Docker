@@ -1,3 +1,11 @@
+#!/bin/python3
+# -*- coding: utf-8 -*-
+# Actividad 1.2.2 - Cliente MQTT
+# Autor: Alejandro Castro
+# Fecha: 2023-10-02
+# Descripción: Este script crea un cliente MQTT que se conecta a un broker y publica mensajes en el topic "redes2".
+# Importar librerías necesarias
+
 import paho.mqtt.client as mqtt
 import time
 
